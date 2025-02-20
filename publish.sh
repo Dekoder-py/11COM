@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd ~/School/YEAR11/11COM/
 git pull
 npx antora antora-playbook.yml
 git add .
