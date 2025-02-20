@@ -1,6 +1,6 @@
 = Budgeting
 
-Budget = +++<u>Plan</u>+++ for your income and spending
+Budget = +++<u>plan</u>+++ for your income and spending
 
 Surplus = excess / extra money
 Deficit = shortfall / less money
