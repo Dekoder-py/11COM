@@ -1,3 +1,5 @@
 = Budgeting
 
-Budget = __Plan__ for your income and spending
+Budget = +++<u>Plan</u>+++ for your income and spending
+
+
