@@ -2,8 +2,8 @@
 
 Budget = +++<u>plan</u>+++ for your income and spending
 
-Surplus = excess / extra money
-Deficit = shortfall / less money
+Surplus = excess / extra money (income is greater than expenses)
+Deficit = shortfall / less money (income is less than expenses)
 
 INCOME
 
