@@ -2,4 +2,13 @@
 
 Budget = +++<u>Plan</u>+++ for your income and spending
 
+Surplus = excess / extra money
+Deficit = shortfall / less money
 
+[cols="1,1"]
+INCOME
+- EXPENSES
+ESSENTIAL / FIXED
+NON ESSENTIAL / VARIABLE
+
+SURPLUS / DEFICIT
