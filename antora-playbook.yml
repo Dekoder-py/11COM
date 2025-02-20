@@ -1,6 +1,6 @@
 site:
   title: 11COM Notes
-  start_page: project-name::index.adoc
+  start_page: commerce-notes::index.adoc
 content:
   sources:
     - url: .
