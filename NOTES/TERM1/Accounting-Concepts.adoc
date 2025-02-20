@@ -1,0 +1,20 @@
+== Accounting Concepts
+
+== Monetry Measurement:
+- Allows us to add different items together by assigning monetry value in a common currency (NZD)
+- Convert other currencys to common currency to compare.
+- Exclude items that can't have a monetry value.
+
+== Accounting Entity:
+- Every business's finances are recorded seperately.
+
+== Going Concern:
+- The intention that the business will continue to operate into the foreseeable future.
+- Buisness will buy things they can use for a long period of time (e.g. a fryer).
+
+== Reporting Period:
+- Continuing life of the business is divided into periods of time of equal length.
+- Used to understand finances and profits to make decisions.
+
+== Historical Cost:
+- Transactions are recorded at the original cost/price paid by the business.

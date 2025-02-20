@@ -1,0 +1,11 @@
+# Accounting Elements
+
+Assets - things of value that we / the buisness *own*
+
+- House, land, tv, playstation, laptop, vehicles, equipment
+
+Liabilities - what we / the buisness *owe* to others.
+
+- Loan / mortgage, hire purchase (e.g. washing machine)
+
+## Assests - Liablities = Owners Equity
